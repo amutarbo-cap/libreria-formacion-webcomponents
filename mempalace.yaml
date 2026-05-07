@@ -1,0 +1,7 @@
+dwelling: webcomponents_library
+rooms:
+  - name: components
+  - name: specs
+  - name: wiki
+  - name: tests
+  - name: core
